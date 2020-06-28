@@ -1,8 +1,7 @@
 #!bin/bash
 sudo apt-get update
-sudo apt-get -y  gnome-session
-sudo update-alternatives --config gdm3.css
-sudo apt-get install xrdp
+sudo apt-get -y  ubuntu-desktop
+sudo apt-get install xrdp -y
 Sudo /etc/init.d/xrdp start
 sudo apt update 
 sudo apt -y upgrade 
