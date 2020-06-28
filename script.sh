@@ -2,7 +2,7 @@
 sudo apt-get update
 sudo apt-get -y  ubuntu-desktop
 sudo apt-get install xrdp -y
-Sudo /etc/init.d/xrdp start
+sudo /etc/init.d/xrdp start
 sudo apt update 
 sudo apt -y upgrade 
 sudo apt update 
